@@ -1,4 +1,4 @@
-h3,.project1 {
+.project1 {
 	color: blue;
 }
 
@@ -13,4 +13,12 @@ body {
     padding: 5px;
     background-color: green;
     color: yellow;
+}
+
+.project2 {
+	color: red;
+}
+
+.project3 {
+	color: teal;
 }
