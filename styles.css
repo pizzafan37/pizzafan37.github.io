@@ -1,35 +1,39 @@
 .project1 {
-	color: darkgreen;
+    color: darkgreen;
 }
 
 body {
-	background-color: orange;
+    background-color: orange;
 }
 
 .intro {
-	text-align: center;
-	border: 3px solid red;
-	margin: 10px;
-	padding: 5px;
-	background-color: green;
-	color: yellow;
+    text-align: center;
+    border: 3px solid red;
+    margin: 10px;
+    padding: 5px;
+    background-color: green;
+    color: yellow;
 }
 
 .project2 {
-	color: red;
+    color: red;
 }
 
 .project3 {
-	color: snow;
+    color: snow;
 }
 
 .box {
-	border: 3px dashed black;
-	text-align: center;
-	background-color: aqua;
-	color: darkred;
+    border: 3px dashed black;
+    text-align: center;
+    background-color: aqua;
+    color: darkred;
 }
 
 p {
-	font-size: 20px;
+    font-size: 20px;
+}
+
+.project4 {
+    color: teal;
 }
